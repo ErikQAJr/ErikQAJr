@@ -1,16 +1,55 @@
-## Hi there 👋
+# Olá, eu sou Erik 👋
 
-<!--
-**ErikQAJr/ErikQAJr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Sobre mim
 
-Here are some ideas to get you started:
+Sou um Analista de QA em formação, focado em construir uma base sólida em testes manuais, APIs e automação.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Atualmente estou estudando:
+
+- Testes Manuais
+- Casos de Teste
+- Bug Reports
+- Jira
+- Postman
+- JavaScript
+- Cypress
+- Git e GitHub
+
+---
+
+## Objetivo
+
+Meu objetivo é atuar como QA Jr, contribuindo para a qualidade de software através de testes funcionais, documentação de defeitos e automação de cenários.
+
+---
+
+## Tecnologias em aprendizado
+
+- Git
+- GitHub
+- Jira
+- Postman
+- JavaScript
+- Cypress
+
+---
+
+## Repositórios do meu aprendizado
+
+Em breve:
+
+- qa-learning-journal
+- qa-manual
+- postman-api-tests
+- javascript-for-qa
+- cypress-automation
+
+---
+
+## Jornada
+
+Este perfil documenta toda a minha evolução na área de Quality Assurance.
+
+Cada projeto representa uma etapa real do meu aprendizado.
+
+🚀 Em construção.
