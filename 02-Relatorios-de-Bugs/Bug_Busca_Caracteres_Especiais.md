@@ -1,6 +1,8 @@
 RELATÓRIO DE BUG: Falha na Busca com Caracteres Especiais
 Título do Bug: [Busca] Sistema retorna resultados aleatórios ao pesquisar apenas por caracteres especiais
+
 ID do Teste Origem: CT-004
+
 Ambiente: Google Chrome (Versão Atualizada) / Produção (Site Oficial)
 
 Passos para Reproduzir:
