@@ -1,4 +1,4 @@
-aula 1 Teste de Software: Fundamentos e Prática do Zero ao Profissional 
+Teste de Software: Fundamentos e Prática do Zero ao Profissional 
 
 caso de test: CT-001- login do Mercado Livre com Email Valido 
 
