@@ -1,49 +1,21 @@
 # Olá, eu sou Erik 👋
 
-## Sobre mim
+# 🚀 Portfólio de Quality Assurance (QA) 
 
-Sou um Analista de QA em formação, focado em construir uma base sólida em testes manuais, APIs e automação.
+Bem-vindo ao meu repositório de evolução prática na área de Qualidade de Software. Aqui documento os meus estudos, testes manuais, relatórios de bugs e, futuramente, testes de API e Automação.
 
-Atualmente estou estudando:
+## 📂 Estrutura do Repositório
 
-- Testes Manuais
-- Casos de Teste
-- Bug Reports
-- Jira
-- Postman
-- JavaScript
-- Cypress
-- Git e GitHub
+* **01-Testes-Manuais:** Casos de teste estruturados (Caminhos Felizes e Fluxos de Exceção) aplicados em sistemas reais.
+* **02-Relatorios-de-Bugs:** Documentação formal de falhas encontradas durante os testes exploratórios. (Em construção)
+* **03-Testes-de-API:** Validações de backend e contratos. (Em breve)
+* **04-Automacao:** Scripts de automação de testes. (Em breve)
 
----
-
-## Objetivo
-
-Meu objetivo é atuar como QA Jr, contribuindo para a qualidade de software através de testes funcionais, documentação de defeitos e automação de cenários.
-
----
-
-## Tecnologias em aprendizado
-
-- Git
-- GitHub
-- Jira
-- Postman
-- JavaScript
-- Cypress
-
----
-
-## Repositórios do meu aprendizado
-
-Em breve:
-
-- qa-learning-journal
-- qa-manual
-- postman-api-tests
-- javascript-for-qa
-- cypress-automation
-
+## 🛠️ Ferramentas e Tecnologias
+* Metodologias Ágeis
+* Criação de Casos de Teste e Bug Reports
+* Testes Exploratórios
+* Markdown e GitHub
 ---
 
 ## Jornada
