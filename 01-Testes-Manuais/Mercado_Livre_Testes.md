@@ -1,4 +1,4 @@
-aula 1 Teste de Software: Fundamentos e Prática 🔧 | Do Zero ao Profissional 
+aula 1 Teste de Software: Fundamentos e Prática do Zero ao Profissional 
 
 caso de test: CT-001- login do Mercado Livre com Email Valido 
 
@@ -15,8 +15,8 @@ RESULTADO ESPERADO:
 - Nome do usuário exibido no menu superior✅
 
 RESULTADO OBTIDO:O procedimento de test de login com email valido foi obtido êxito, todos campos estão funcionando  
-STATUS: ✅ Passou 
 
+STATUS: ✅ Passou 
 __________________________________________________________________________
 
 CASO DE TESTE: CT-002 - Busca de Produto Específico (Caminho Feliz)
@@ -47,11 +47,7 @@ O sistema carregou com sucesso a página de busca, exibindo as opções do noteb
 
 STATUS: ✅ Passou
 
-É exatamente assim que um Analista de QA documenta o resultado de um teste. Agora vá em frente e execute os testes
 __________________________________________________________________________
-
-Veja como fica o relatório preenchido e já formatado para você copiar e atualizar no seu arquivo .txt:
-
 
 CASO DE TESTE: CT-003 - Login com Formato de E-mail Inválido (Cenário de Erro)
 PRÉ-CONDIÇÃO:
@@ -81,18 +77,12 @@ O sistema bloqueou corretamente o avanço para a tela de senha e exibiu a mensag
 
 STATUS: ✅ Passou
 
-Ficou perfeito! Você está pegando o jeito exato de como relatar os comportamentos do sistema.
 __________________________________________________________________________
 
 CASO DE TESTE: CT-004 - Busca com Caracteres Especiais (Cenário de Erro)
 
-Fala, Erik! Excelente relato! Você acabou de encontrar o seu primeiro bug (ou comportamento inesperado) na prática!
+__________________________________________________________________________
 
-O cenário que você testou foi o CT-004 - Busca com Caracteres Especiais, onde a nossa expectativa era que o sistema informasse que nenhum produto foi encontrado. No entanto, o sistema retornou 13 resultados (celulares, tablets, relógios), o que foge completamente do comportamento que esperávamos.
-
-Isso significa que este é um Teste que Falhou! E no mundo do QA, um teste que falha é uma vitória, pois encontramos um possível problema no sistema antes do usuário final se frustrar.
-
-Veja como fica o relatório preenchido para o CT-004. Copie e atualize no seu arquivo .txt:
 
 CASO DE TESTE: CT-004 - Busca com Caracteres Especiais (Cenário de Erro)
 PRÉ-CONDIÇÃO:
